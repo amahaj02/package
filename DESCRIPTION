@@ -1,11 +1,12 @@
 Package: package
-Title: What the Package Does (One Line, Title Case)
+Title: Make String Splitting and Text Tasks Easier
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Aarav", "Mahajan",email="amahaj02@students.ubc.ca", 
+    role = c("aut", "cre"))
+Description: A collection of functions that simplify working with strings in R,
+    making regular expressions and text parsing more user-friendly.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
